@@ -4,8 +4,9 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        String name = "Dea Troshani";
-        System.out.printf("Hello ", name);
+        String name = "Dea";
+        String surname = "Troshani";
+        System.out.printf("Hello " + name + " " + surname);
 
 
     }
