@@ -5,8 +5,8 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         String name = "Dea";
-        String surname = "Troshani";
-        System.out.printf("Hello " + name + " " + surname);
+        String surname = " Troshani";
+        System.out.printf("Hello " + name  + surname);
 
 
     }
