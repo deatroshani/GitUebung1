@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         String name = "Dea";
         String surname = " Troshani";
-        System.out.printf("Hello " + name  + surname);
+        System.out.printf("Hello " + name  +" "+ surname);
 
 
     }
